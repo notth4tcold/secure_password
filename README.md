@@ -51,9 +51,11 @@ clipboard = "0.7"      # opcional
 
 ## 📚 Como Rodar
 
+```toml
 git clone https://github.com/notth4tcold/secure_password.git
 cd secure_password
 cargo run
+```
 
 ---
 
