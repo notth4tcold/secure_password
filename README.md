@@ -46,3 +46,22 @@ rand = "0.8"
 colored = "2.0"        # opcional
 clipboard = "0.7"      # opcional
 ```
+
+---
+
+## 📚 Como Rodar
+
+git clone https://github.com/notth4tcold/secure_password.git
+cd secure_password
+cargo run
+
+---
+
+## ✨ Futuras Melhorias (para treinar mais ainda!)
+
+- Salvar senhas em um arquivo (std::fs)
+- Copiar senha automaticamente para o clipboard
+- Adicionar testes automatizados
+- Adicionar modo interativo com menus (usando dialoguer ou inquire)
+- Suporte a múltiplas senhas por vez
+- Interface gráfica com egui ou gtk-rs (nível avançado)
