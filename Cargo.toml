@@ -5,5 +5,5 @@ edition = "2024"
 
 [dependencies]
 rand = "0.8"
-# colored = "2.0"        # opcional
-# clipboard = "0.7"      # opcional
+colored = "2.1"        # opcional
+# clipboard = "0.5"      # opcional (not added because it dosen't work on WSL)
